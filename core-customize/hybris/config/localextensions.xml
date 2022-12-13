@@ -187,6 +187,11 @@
     <!--<extension name='azurecloudhotfolder' />
     <extension name='cloudcommons' />
     <extension name='cloudhotfolder' />-->
+    
+    <extension name='novalnetcore' />
+	<extension name='novalnetocc' />
+	<extension name='novalnetfacades' />
+	<extension name='novalnetbackoffice' />
 
   </extensions>
 </hybrisconfig>
