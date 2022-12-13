@@ -1,0 +1,16 @@
+{
+    "applications": [
+        {
+            "name": "spartacusstore",
+            "path": "spartacusstore",
+            "ssr": {
+                "enabled": true,
+                "path": "dist/spartacusstore/server/main.js"
+            },
+            "csr": {
+                "webroot": "dist/spartacusstore/browser/"
+            }
+        }
+    ],
+    "nodeVersion": "14"
+}
